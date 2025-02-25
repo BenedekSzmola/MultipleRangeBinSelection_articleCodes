@@ -1,0 +1,17 @@
+pi,3.141592653589793
+radar_adcsamp_num,128
+radar_bandwidth,2997658080.0
+radar_dist_res,0.050004445136718194
+radar_frame_time,0.004451
+radar_freq_mean,61498829040.0
+radar_freq_min,60000000000
+radar_idle_time,0.049970020000000004
+radar_loop_num,12
+radar_rx_num,4
+radar_samp_freq,20
+radar_samp_time,0.05
+radar_time_adc_on,2.9979999999999998e-05
+radar_tx_num,1
+radar_velo_res,0.5476035642983008
+radar_wavelength_mean,0.004874766929383474
+speed_of_light,299792458.0
